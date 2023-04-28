@@ -2,7 +2,7 @@
 
 Asynchronous pause
 
-![GitHub CI](https://img.shields.io/github/workflow/status/vlad-yakovlev/async-pause/CI/main?label=github-ci)
+![GitHub CI](https://img.shields.io/github/actions/workflow/status/vlad-yakovlev/async-pause/ci.yml?branch=main&label=github-ci)
 [![Codecov](https://img.shields.io/codecov/c/github/vlad-yakovlev/async-pause/main)](https://codecov.io/gh/vlad-yakovlev/async-pause)
 [![NPM](https://img.shields.io/npm/v/async-pause)](https://www.npmjs.org/package/async-pause)
 
